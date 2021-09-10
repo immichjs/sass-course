@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* Esse comentário estará no css
+ * continuando
+ * o
+ * meu
+ * comentario
+ *  120 */
+/*! Este comentário tambem será incluso */
+.container {
+  background-color: #eee;
+  padding: 20px;
+}
+.container #title {
+  background-color: #333;
+  color: #fff;
+  padding: 15px;
+  text-align: center;
+}
+
+.container-bottom {
+  background-color: blue;
+  padding: 20px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
